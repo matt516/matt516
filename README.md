@@ -38,8 +38,8 @@ Aspiring Cybersecurity analyst that loves picking up new skills and working on p
   <a href="mailto:matthartley51@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### Experience
-## In Progress
+## Experience
+### In Progress
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
