@@ -12,8 +12,10 @@
 
 Aspiring Cybersecurity analyst that loves picking up new skills and working on projects. I want to be well versed in the cyber world and useful to others with a sense of purpose.
 
-🔭 &nbsp;I'm currently working on **AI, AWS Certifications**  
+🔭 &nbsp;I'm currently working on **AI, AWS Certifications** 
+
 🌱 &nbsp;I'm currently learning **Pentesting/Red Team Learning via Tryhackme**
+
 🔗 &nbsp;Check out my Home Lab Project <a href="https://github.com/matt516/home-cybersecurity-lab-network"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 
