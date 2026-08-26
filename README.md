@@ -14,6 +14,7 @@ Aspiring Cybersecurity analyst that loves picking up new skills and working on p
 
 🔭 &nbsp;I'm currently working on **AI, AWS Certifications**  
 🌱 &nbsp;I'm currently learning **Pentesting/Red Team Learning via Tryhackme**
+🔗 &nbsp;Check out my Home Lab Project <img src="https://github.com/matt516/home-cybersecurity-lab-network" />
 
 ### 🛠️ Tech Stack
 
