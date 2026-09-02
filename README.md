@@ -16,7 +16,7 @@ Aspiring Cybersecurity analyst that loves picking up new skills and working on p
   
 🌱 &nbsp;I'm currently learning **Pentesting/Red Team via Tryhackme**
 
-🔗 &nbsp;Check out my Home Lab Project <a href="https://github.com/matt516/home-cybersecurity-lab-network"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align:middle;" /></a>
+🔗 &nbsp;Check out my Home Lab Project <a href="https://github.com/matt516/home-cybersecurity-lab-network"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 
 ### 🛠️ Tech Stack
 
@@ -45,10 +45,7 @@ Aspiring Cybersecurity analyst that loves picking up new skills and working on p
 ### In Progress
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Red%20Team-000000?style=for-the-badge&logo=kalilinux&logoColor=red" alt="Red Team" height="40" width="160"/>
 </p>
 
 ### 💭 Dev Quote
