@@ -16,7 +16,7 @@ Aspiring Cybersecurity analyst that loves picking up new skills and working on p
   
 🌱 &nbsp;I'm currently learning **Pentesting/Red Team via Tryhackme**
 
-🔗 &nbsp;Check out my Home Lab Project <a href="https://github.com/matt516/home-cybersecurity-lab-network"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+🔗 &nbsp;CHECK OUT MY HOME LAB PROJECT <a href="https://github.com/matt516/home-cybersecurity-lab-network"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 
 ### 🛠️ Tech Stack
 
